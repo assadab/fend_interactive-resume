@@ -1,6 +1,6 @@
 # Project Details
 
-This is a project for Udacity's Front End Development Nanodegree. To be able to view a live version, [click here] (https://assadab.github.io/fend_interactive-resume/) .
+This is a project for Udacity's Front End Development Nanodegree. 
 
 # How to open application
 
