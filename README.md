@@ -1,4 +1,11 @@
 # Project Details
+
+This is a project for Udacity's Front End Development Nanodegree. To be able to view a live version, click here.
+
+# How to open application
+
+Download the repository in your computer, unzip it and open index.html in your browser to see the Classic Arcade Game.
+
 ## How do I complete this project?
 Review the Online Resume [Project Rubric](https://review.udacity.com/?_ga=1.189245867.12280332.1465333852#!/projects/2962818615/rubric).
 
